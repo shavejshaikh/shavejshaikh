@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width=50 height=50> Hi! Nice to see you</h1>
+<h1 align="left"> Hi! Nice to see you</h1>
 <p>I'm Shavej, Fullstack developer/ ML Engineer from <img src ="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png" width=20 height=20/><b>Mumbai, India</b><br> I'm also an open-source enthusiast and maintainer. I learned lot from the open-source community and love to collaborate.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shavejshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="shavejshaikh" /> </p>
